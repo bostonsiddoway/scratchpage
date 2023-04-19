@@ -1,0 +1,50 @@
+body{
+    background-color:lightyellow;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid lightblue;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.subheading{
+    font-weight: bold;
+    text-decoration: underline;
+    color: lightskyblue;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+ol{
+list-style-position: inside;
+text-align: center;
+}
+img{
+    width: 25%;
+
+}
+.vertical{
+    width:15%
+}
+.commonfooter{
+    height: 25px;
+    background-color: lightskyblue;
+    color: white;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    padding: 15px;
+    }
+.commonheader{
+    height: 45px;
+    background-color: lightskyblue;
+    color: white;
+    bottom: 20px;
+    right: 5px;
+    left: 5px;
+    padding: 25px;
+}
+.tableauPlaceholder{
+    width: 35%;
+}
