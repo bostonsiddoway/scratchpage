@@ -15,10 +15,12 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 ul{
     list-style: none;
     text-align: center;
+    padding: 0;
 }
 ol{
 list-style-position: inside;
 text-align: center;
+    padding: 0;
 }
 img{
     width: 25%;
